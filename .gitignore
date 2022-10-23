@@ -1,0 +1,14 @@
+__pycache__/
+config.cpython-310.pyc
+
+controller.cpython-310.pyc
+
+logger.cpython-310.pyc
+
+operations.cpython-310.pyc
+
+operations_content.cpython-310.pyc
+
+operations_shell.cpython-310.pyc
+
+ui.cpython-310.pyc
